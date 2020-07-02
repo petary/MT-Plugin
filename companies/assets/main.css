@@ -1,0 +1,80 @@
+.half-container{
+    margin: 70px 35px;
+    width: 40%;
+    padding: 23px 20px;
+    border: 1px solid #e2e2e2;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.full-container{
+    margin: 70px 35px;
+    width: 90%;
+    padding: 23px 20px;
+    border: 1px solid #e2e2e2;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.btn{
+    padding: 0px 15px;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.btn-edit{
+    background: #f2f2f2;
+    border: 1px solid #ddd;
+    color: #000;
+}
+
+.btn-delete{
+    background: #fb4646;
+    border: 1px solid #e03e3e;
+    color: #fff;
+    cursor: pointer;
+    
+}
+.add-new{
+    clear: both;
+    display: flex;
+    margin: 31px 0;
+}
+.btn-add-new{
+    background: #3362EB;
+    border: 1px solid #2851ca;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 15px;
+    transition: 0.5s ease all;
+}
+
+.btn-add-new:hover,.btn-add-new:active{
+    background: transparent;
+    border: 1px solid #2851ca;
+    color: #000;
+    transition: 0.5s ease all;
+}
+
+.btn-submit{
+    background: #38409e;
+    border: 1px solid #4e5ade;
+    color: #fff;
+    cursor: pointer;
+    padding: 11px 20px;
+    
+}
+
+
+.prmgtk_input{
+    display: block;
+    margin: 28px 0;
+    width: 100%;
+}
+
